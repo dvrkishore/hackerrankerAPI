@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14406" started-at="2020-12-03T23:06:10 GMT" finished-at="2020-12-03T23:06:24 GMT">
+    <groups>
+    </groups>
+    <test name="HackerRanksTestsSuite" duration-ms="14406" started-at="2020-12-03T23:06:10 GMT" finished-at="2020-12-03T23:06:24 GMT">
+      <class name="HackerRankerTests.TC002_GET_FootballCompetitions">
+        <test-method status="PASS" signature="tc02_GET_footballCompetitions()[pri:0, instance:HackerRankerTests.TC002_GET_FootballCompetitions@167fdd33]" name="tc02_GET_footballCompetitions" duration-ms="492" started-at="2020-12-03T23:06:15 GMT" finished-at="2020-12-03T23:06:16 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_GET_footballCompetitions -->
+        <test-method status="PASS" signature="tc02_StatusCodeValidation()[pri:0, instance:HackerRankerTests.TC002_GET_FootballCompetitions@167fdd33]" name="tc02_StatusCodeValidation" duration-ms="500" started-at="2020-12-03T23:06:16 GMT" finished-at="2020-12-03T23:06:16 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_StatusCodeValidation -->
+        <test-method status="PASS" signature="tc03_validateHeaders()[pri:0, instance:HackerRankerTests.TC002_GET_FootballCompetitions@167fdd33]" name="tc03_validateHeaders" duration-ms="501" started-at="2020-12-03T23:06:16 GMT" finished-at="2020-12-03T23:06:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_validateHeaders -->
+        <test-method status="PASS" signature="tc04_validatetopdata()[pri:0, instance:HackerRankerTests.TC002_GET_FootballCompetitions@167fdd33]" name="tc04_validatetopdata" duration-ms="565" started-at="2020-12-03T23:06:17 GMT" finished-at="2020-12-03T23:06:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_validatetopdata -->
+        <test-method status="PASS" signature="tc05_validateFirstRecordOfDataArray()[pri:0, instance:HackerRankerTests.TC002_GET_FootballCompetitions@167fdd33]" name="tc05_validateFirstRecordOfDataArray" duration-ms="548" started-at="2020-12-03T23:06:18 GMT" finished-at="2020-12-03T23:06:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_validateFirstRecordOfDataArray -->
+      </class> <!-- HackerRankerTests.TC002_GET_FootballCompetitions -->
+      <class name="HackerRankerTests.TC001_GET_FootballMatches">
+        <test-method status="PASS" signature="tc01_GET_footballMatches()[pri:0, instance:HackerRankerTests.TC001_GET_FootballMatches@5f282abb]" name="tc01_GET_footballMatches" duration-ms="2525" started-at="2020-12-03T23:06:10 GMT" finished-at="2020-12-03T23:06:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_GET_footballMatches -->
+        <test-method status="PASS" signature="tc02_StatusCodeValidation()[pri:0, instance:HackerRankerTests.TC001_GET_FootballMatches@5f282abb]" name="tc02_StatusCodeValidation" duration-ms="531" started-at="2020-12-03T23:06:12 GMT" finished-at="2020-12-03T23:06:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_StatusCodeValidation -->
+        <test-method status="PASS" signature="tc03_validateHeaders()[pri:0, instance:HackerRankerTests.TC001_GET_FootballMatches@5f282abb]" name="tc03_validateHeaders" duration-ms="530" started-at="2020-12-03T23:06:13 GMT" finished-at="2020-12-03T23:06:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_validateHeaders -->
+        <test-method status="PASS" signature="tc04_validatetopdata()[pri:0, instance:HackerRankerTests.TC001_GET_FootballMatches@5f282abb]" name="tc04_validatetopdata" duration-ms="1253" started-at="2020-12-03T23:06:13 GMT" finished-at="2020-12-03T23:06:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_validatetopdata -->
+        <test-method status="PASS" signature="tc05_validateFirstRecordOfDataArray()[pri:0, instance:HackerRankerTests.TC001_GET_FootballMatches@5f282abb]" name="tc05_validateFirstRecordOfDataArray" duration-ms="812" started-at="2020-12-03T23:06:15 GMT" finished-at="2020-12-03T23:06:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_validateFirstRecordOfDataArray -->
+      </class> <!-- HackerRankerTests.TC001_GET_FootballMatches -->
+      <class name="HackerRankerTests.TC003_CountNoOfMatchesWhichAreDrawnIn2011">
+        <test-method status="PASS" signature="tc01_ValidateTheCountOfDrawnMatchesIn2011()[pri:0, instance:HackerRankerTests.TC003_CountNoOfMatchesWhichAreDrawnIn2011@1e965684]" name="tc01_ValidateTheCountOfDrawnMatchesIn2011" duration-ms="6087" started-at="2020-12-03T23:06:18 GMT" finished-at="2020-12-03T23:06:24 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_ValidateTheCountOfDrawnMatchesIn2011 -->
+      </class> <!-- HackerRankerTests.TC003_CountNoOfMatchesWhichAreDrawnIn2011 -->
+    </test> <!-- HackerRanksTestsSuite -->
+  </suite> <!-- Suite -->
+</testng-results>

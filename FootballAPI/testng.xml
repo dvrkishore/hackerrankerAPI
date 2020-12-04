@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="HackerRanksTestsSuite">
+		<classes>
+			<class name="HackerRankerTests.TC001_GET_FootballMatches" />
+			<class name="HackerRankerTests.TC002_GET_FootballCompetitions" />
+			<class name="HackerRankerTests.TC003_CountNoOfMatchesWhichAreDrawnIn2011" />
+		</classes>
+	</test> <!-- HackerRanksTestsSuite -->
+</suite> <!-- Suite -->
